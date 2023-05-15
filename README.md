@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
-<b align="center">Le bon vieux jeux du pendu écrit en Bash avec une simpliste interface graphique en console</b>
+<b align="center"Brute force the token hash used by Samsung share to find random images of people</b>
 <p align="center">
 <img src=".enter.png">
 </p>
