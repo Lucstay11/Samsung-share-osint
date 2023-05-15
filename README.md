@@ -13,21 +13,16 @@
 <img src=".enter.png">
 </p>
 
-
-**`Packages`**
-
-```
-toilet
-```
 **`Installation`**
 ```
-$linux-⛓pendu: git clone https://github.com/Lucstay11/Bash-pendu
-$linux-⛓pendu: cd Bash-pendu
-$linux-⛓pendu: chmod +x jeux.sh
+git clone https://github.com/Lucstay11/Samsung-share-osint
+cd Samsung-share-osint
+chmod +x config.sh samsung-share.sh
 ``` 
+<b align="center">Before launching the script enter the coordinates of your telegram bot</b>
 
-**`Lance le script`**
+**`Run`**
 
 ```
-$linux-⛓pendu: bash jeux.sh
+bash samsung-share.sh
 ```
