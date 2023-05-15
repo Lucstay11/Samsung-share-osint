@@ -9,9 +9,6 @@
 </p>
 
 <b align="center">Brute force the token hash used by Samsung share to find random images of people</b>
-<p align="center">
-<img src=".enter.png">
-</p>
 
 **`Installation`**
 ```
