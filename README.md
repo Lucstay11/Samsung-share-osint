@@ -1,5 +1,5 @@
 <p align="center">
-<img src=".exemple.jpg">
+<img height="200" src=".exemple.jpg">
 </p>
 <h1 align="center">Samsung-share-osint</h1>
 <p align="center">
