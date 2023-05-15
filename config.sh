@@ -1,4 +1,4 @@
 #YOUR TELEGRAM BOT CONFIG
 chat_id=
-text=""
+text="[SamsungShare] Image found :"
 token=""
