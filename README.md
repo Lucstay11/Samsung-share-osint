@@ -1,7 +1,7 @@
 <p align="center">
 <img src=".pendu.png">
 </p>
-<h1 align="center">Bash pendu</h1>
+<h1 align="center">Samsung-share-osint</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Lucstay11-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
@@ -19,10 +19,17 @@ git clone https://github.com/Lucstay11/Samsung-share-osint
 cd Samsung-share-osint
 chmod +x config.sh samsung-share.sh
 ``` 
-<b align="center">Before launching the script enter the coordinates of your telegram bot</b>
+<b align="center">Before launching the script enter the coordinates of your telegram bot in config.sh</b>
 
 **`Run`**
 
 ```
 bash samsung-share.sh
+```
+
+<b align="center">Preferably, put your script in a crontab to run it in the background at startup</b>
+
+```
+crontab -e
+@reboot /$HOME/Samsung-share-osint/samsung-share.sh
 ```
